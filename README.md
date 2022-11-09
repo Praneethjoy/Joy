@@ -20,5 +20,5 @@ Code	`code`
 Horizontal Rule	---
 
 Link	[title](https://www.example.com)
-Image	![alt text](https://th.bing.com/th/id/OIP._ohpcjTZPLgQzl97b0fhhAHaFO?pid=ImgDet&rs=1)
+Image	![Nelux Technologies](https://th.bing.com/th/id/OIP._ohpcjTZPLgQzl97b0fhhAHaFO?pid=ImgDet&rs=1)
 	
