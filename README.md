@@ -23,7 +23,7 @@ Link	[title](https://www.example.com)
 Image	![Nelux Technologies](https://th.bing.com/th/id/OIP._ohpcjTZPLgQzl97b0fhhAHaFO?pid=ImgDet&rs=1)
 	
 
-## **INDRODUCTION**
+## *INDRODUCTION*
 Hearby i would like to 
 Company name : Nelux Technologies
 
