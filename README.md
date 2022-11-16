@@ -23,7 +23,29 @@ Link	[title](https://www.example.com)
 Image	![Nelux Technologies](https://pngimg.com/uploads/apple/apple_PNG12489.png)
 	
 
-## *INDRODUCTION*
-Hearby i would like to 
-Company name : Nelux Technologies
+
+
+## **About Class** : 
+
+Nelux Technologies Private Limited is an unlisted private company incorporated on December , 2017.It is classified as a private limited company and is located in Thrissur, Kerala. It's authorized share capital is INR 10.00Lac and the total paid-up captial is INR 10,000.OO. The current status of Nelux Technologies Private Limited is - Active.
+
+
+Name :
+
+NELUX TECHNOLOGIES PRIVATE LIMITED
+
+- BACKGROUND
+
+
+- IT TEAM
+
+
+- CLOUD SETUP
+
+
+
+What they have implimented:
+
+what i can suggest to impliment:
+
 
