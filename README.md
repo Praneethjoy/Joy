@@ -1,7 +1,7 @@
 # *ASSIGNMENT*
 
 ## **ABOUT COMPANY** : 
-<img src="https://clipground.com/images/about-me-icon-png-2.png" width=10% height=5%>
+<img src="https://clipground.com/images/about-me-icon-png-2.png" width=10% height=5%> Nelux technologies PVT LTD is a support based organization specializing in server management and staffing services. We take pride in providing quality support to our clients with the motive of allowing our clients to take care of marketing and their core area of business while we take care of their servers. At Nelux technologies PVT LTD, you will find employees who provide a personal touch to your business with unmatched commitment levels. Our expertise involves providing Linux based solutions to a whole range of clients ranging from small and medium sized companies to large organizations. We specialize in providing reliable and secure solutions for all your server related issues. Our state-of-the-art network infrastructure combined with world class training ensures your server and network related issues are taken care of allowing you to concentrate on your core-business.
 
 
 
