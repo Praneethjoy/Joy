@@ -9,8 +9,7 @@
 
 
 - ### **BACKGROUND**
-<img src="https://freelancinghacks.com/wp-content/uploads/2020/06/send-proposal-640x384.jpg" width=30% height=20%>
-Nelux Technologies Private Limited is an unlisted private company incorporated on December , 2017.It is classified as a private limited company and is located in Thrissur, Kerala. It's authorized share capital is INR 10.00Lac and the total paid-up captial is INR 10,000.OO. The current status of Nelux Technologies Private Limited is - Active.
+<img src="https://freelancinghacks.com/wp-content/uploads/2020/06/send-proposal-640x384.jpg" width=30% height=20%> Nelux Technologies Private Limited is an unlisted private company incorporated on December , 2017.It is classified as a private limited company and is located in Thrissur, Kerala. It's authorized share capital is INR 10.00Lac and the total paid-up captial is INR 10,000.OO. The current status of Nelux Technologies Private Limited is - Active.
 
 
 
