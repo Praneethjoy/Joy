@@ -14,7 +14,7 @@
 
 
 - ### **IT TEAM**
-<img src="https://th.bing.com/th/id/R.fc1a258f7c917728f89398f4e44bd90d?rik=hMTfURUuKlAQUw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_328097.png&ehk=NQlUJ2diAFGm7SgVnzpmL9D5TeXxZQPtKFnPAD4IsxE%3d&risl=&pid=ImgRaw&r=0" width=10% height=5%>
+<img src="https://th.bing.com/th/id/R.fc1a258f7c917728f89398f4e44bd90d?rik=hMTfURUuKlAQUw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_328097.png&ehk=NQlUJ2diAFGm7SgVnzpmL9D5TeXxZQPtKFnPAD4IsxE%3d&risl=&pid=ImgRaw&r=0" width=10% height=5%> The management team at Nelux technologies PVT LTD understands the difficulty that can arise when an engineer quits a project mid-way. We at Nelux technologies PVT LTD pride in employee retention through providing a cognial and positive work atmosphere allowing the engineers to perform to the best of his calibre.
 
 
 - ### **CLOUD SETUP**
