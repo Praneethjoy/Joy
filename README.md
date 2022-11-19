@@ -5,7 +5,7 @@
 
 
 
-<img src="https://th.bing.com/th/id/OIP.Wlp7lN0BBU6CgUlDCHEejAHaB1?pid=ImgDet&rs=1" width=45% height=25%>
+<img src="https://th.bing.com/th/id/OIP.Wlp7lN0BBU6CgUlDCHEejAHaB1?pid=ImgDet&rs=1" width=65% height=35%>
 
 
 - ### **BACKGROUND**
