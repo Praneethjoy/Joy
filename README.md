@@ -1,9 +1,9 @@
 # *ASSIGNMENT*
 
-## **ABOUT COMPANY** : <img src="https://clipground.com/images/about-me-icon-png-2.png" width=11% height=9%>
+## **ABOUT COMPANY** : <img src="https://clipground.com/images/about-me-icon-png-2.png" width=10% height=5%>
 
 
-## **NAME** :<img src="https://th.bing.com/th/id/OIP.Wlp7lN0BBU6CgUlDCHEejAHaB1?pid=ImgDet&rs=1" width=25% height=10%>
+## **NAME** :<img src="https://th.bing.com/th/id/OIP.Wlp7lN0BBU6CgUlDCHEejAHaB1?pid=ImgDet&rs=1" width=30% height=15%>
 
 
 - ### **BACKGROUND**
