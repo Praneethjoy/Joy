@@ -5,20 +5,20 @@
 
 
 
-<img src="https://th.bing.com/th/id/OIP.Wlp7lN0BBU6CgUlDCHEejAHaB1?pid=ImgDet&rs=1" width=40% height=25%>
+<img src="https://th.bing.com/th/id/OIP.Wlp7lN0BBU6CgUlDCHEejAHaB1?pid=ImgDet&rs=1" width=45% height=25%>
 
 
 - ### **BACKGROUND**
-<img src="https://static.thenounproject.com/png/1716829-200.png" width=30% height=20%> Nelux Technologies Private Limited is an unlisted private company incorporated on December , 2017.It is classified as a private limited company and is located in Thrissur, Kerala. It's authorized share capital is INR 10.00Lac and the total paid-up captial is INR 10,000.OO. The current status of Nelux Technologies Private Limited is - Active.
+<img src="https://static.thenounproject.com/png/1716829-200.png" width=10% height=5%> Nelux Technologies Private Limited is an unlisted private company incorporated on December , 2017.It is classified as a private limited company and is located in Thrissur, Kerala. It's authorized share capital is INR 10.00Lac and the total paid-up captial is INR 10,000.OO. The current status of Nelux Technologies Private Limited is - Active.
 
 
 
 - ### **IT TEAM**
-<img src="https://th.bing.com/th/id/R.fc1a258f7c917728f89398f4e44bd90d?rik=hMTfURUuKlAQUw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_328097.png&ehk=NQlUJ2diAFGm7SgVnzpmL9D5TeXxZQPtKFnPAD4IsxE%3d&risl=&pid=ImgRaw&r=0" width=5% height=5%>
+<img src="https://th.bing.com/th/id/R.fc1a258f7c917728f89398f4e44bd90d?rik=hMTfURUuKlAQUw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_328097.png&ehk=NQlUJ2diAFGm7SgVnzpmL9D5TeXxZQPtKFnPAD4IsxE%3d&risl=&pid=ImgRaw&r=0" width=10% height=5%>
 
 
 - ### **CLOUD SETUP**
-<img src="https://th.bing.com/th/id/R.102fb3214b0b2a2c2a38b2b6b09a18f0?rik=ZwiUVNL8gG7tJg&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_459341.png&ehk=dltalgHXNg0a6o2w%2bgEy7heimFO2ZOlcDsgpBTcNroc%3d&risl=&pid=ImgRaw&r=0" width=10% height=10%>
+<img src="https://th.bing.com/th/id/R.102fb3214b0b2a2c2a38b2b6b09a18f0?rik=ZwiUVNL8gG7tJg&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_459341.png&ehk=dltalgHXNg0a6o2w%2bgEy7heimFO2ZOlcDsgpBTcNroc%3d&risl=&pid=ImgRaw&r=0" width=10% height=5%>
 
 
 
