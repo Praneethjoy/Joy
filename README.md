@@ -11,10 +11,12 @@ Nelux Technologies Private Limited is an unlisted private company incorporated o
 
 
 
-- ### **IT TEAM**<img src="https://th.bing.com/th/id/OIP.7rIkEy5rr372aqu1QFvlXgHaHa?pid=ImgDet&rs=1" width=10% height=5%>
+- ### **IT TEAM**
+<img src="https://th.bing.com/th/id/OIP.7rIkEy5rr372aqu1QFvlXgHaHa?pid=ImgDet&rs=1" width=10% height=5%>
 
 
 - ### **CLOUD SETUP**
+<img src="https://th.bing.com/th/id/OIP.7rIkEy5rr372aqu1QFvlXgHaHa?pid=ImgDet&rs=1" width=15% height=15%>
 
 
 
