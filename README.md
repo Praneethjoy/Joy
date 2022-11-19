@@ -1,13 +1,13 @@
 # *ASSIGNMENT*
 
-## **ABOUT COMPANY** : <img src="https://clipground.com/images/about-me-icon-png-2.png"width=50% height=50%>
+## **ABOUT COMPANY** : <img src="https://clipground.com/images/about-me-icon-png-2.png" width=50% height=50%>
 
 Nelux Technologies Private Limited is an unlisted private company incorporated on December , 2017.It is classified as a private limited company and is located in Thrissur, Kerala. It's authorized share capital is INR 10.00Lac and the total paid-up captial is INR 10,000.OO. The current status of Nelux Technologies Private Limited is - Active.
 
 
 ## **NAME** :
-
-NELUX TECHNOLOGIES PRIVATE LIMITED	![Nelux Technologies](https://th.bing.com/th/id/OIP.Wlp7lN0BBU6CgUlDCHEejAHaB1?pid=ImgDet&rs=1)
+![Nelux Technologies](https://th.bing.com/th/id/OIP.Wlp7lN0BBU6CgUlDCHEejAHaB1?pid=ImgDet&rs=1)
+NELUX TECHNOLOGIES PRIVATE LIMITED	
 
 - ### **BACKGROUND**
 
