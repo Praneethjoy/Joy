@@ -24,6 +24,10 @@
 
 1. What they have implimented:
 
+
+
+
+
 2. why they not implimenting:
 
 
