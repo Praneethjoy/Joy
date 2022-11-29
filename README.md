@@ -1,7 +1,7 @@
 # *ASSIGNMENT*
 
 ## **ABOUT COMPANY** : 
-<img src="https://clipground.com/images/about-me-icon-png-2.png" width=10% height=5%> Nelux technologies PVT LTD is a support based organization specializing in server management and staffing services. We take pride in providing quality support to our clients with the motive of allowing our clients to take care of marketing and their core area of business while we take care of their servers. At Nelux technologies PVT LTD, you will find employees who provide a personal touch to your business with unmatched commitment levels. Our expertise involves providing Linux based solutions to a whole range of clients ranging from small and medium sized companies to large organizations. We specialize in providing reliable and secure solutions for all your server related issues. Our state-of-the-art network infrastructure combined with world class training ensures your server and network related issues are taken care of allowing you to concentrate on your core-business.
+<img src="https://clipground.com/images/about-me-icon-png-2.png" width=10% height=5%> Nelux technologies PVT LTD is a support based organization specializing in server management and staffing services. We take pride in providing quality support to our clients with the motive of allowing our clients to take care of marketing and their core area of business while we take care of their servers. At Nelux technologies PVT LTD, you will find employees who provide a personal touch to your business with unmatched commitment levels. Our expertise involves providing Linux based solutions to a whole range of clients ranging from small and medium sized companies to large organizations. We specialize in providing reliable and secure solutions for all your server related issues. Our state-of-the-art network infrastructure combined with world class training ensures your server and network related issues are taken care of allowing you to concentrate on your core-business. The management team at Nelux technologies PVT LTD understands the difficulty that can arise when an engineer quits a project mid-way. We at Nelux technologies PVT LTD pride in employee retention through providing a cognial and positive work atmosphere allowing the engineers to perform to the best of his calibre.
 
 
 
@@ -14,7 +14,7 @@
 
 
 - ### **IT TEAM**
-<img src="https://th.bing.com/th/id/R.fc1a258f7c917728f89398f4e44bd90d?rik=hMTfURUuKlAQUw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_328097.png&ehk=NQlUJ2diAFGm7SgVnzpmL9D5TeXxZQPtKFnPAD4IsxE%3d&risl=&pid=ImgRaw&r=0" width=10% height=5%> The management team at Nelux technologies PVT LTD understands the difficulty that can arise when an engineer quits a project mid-way. We at Nelux technologies PVT LTD pride in employee retention through providing a cognial and positive work atmosphere allowing the engineers to perform to the best of his calibre.
+<img src="https://th.bing.com/th/id/R.fc1a258f7c917728f89398f4e44bd90d?rik=hMTfURUuKlAQUw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_328097.png&ehk=NQlUJ2diAFGm7SgVnzpmL9D5TeXxZQPtKFnPAD4IsxE%3d&risl=&pid=ImgRaw&r=0" width=10% height=5%> Our IT Team consist 20-25 highly skilled professionals qualified in undertaking complex tasks with high efficency and effectiveness. Our core IT operations revolve around AWS Cloud management and support.Amazon Web Services (AWS) is a fantastic cloud platform for businesses, which is why we offer a comprehensive, customized, and dependable AWS support services program.
 
 
 - ### **CLOUD SETUP**
@@ -22,7 +22,9 @@
 
 
 
+
 1. What they have implimented:
+
 
 
 
