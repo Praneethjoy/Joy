@@ -18,10 +18,13 @@
 
 
 - ### **CLOUD SETUP**
-<img src="https://th.bing.com/th/id/R.102fb3214b0b2a2c2a38b2b6b09a18f0?rik=ZwiUVNL8gG7tJg&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_459341.png&ehk=dltalgHXNg0a6o2w%2bgEy7heimFO2ZOlcDsgpBTcNroc%3d&risl=&pid=ImgRaw&r=0" width=10% height=5%>Managing infrastructure in the cloud necessitates your undivided attention, time, energy, and resources.We help businesses realize the benefits of AWS cloud hosting by providing a comprehensive set of managed services such as outsourced AWS systems administration and AWS-based network and storage solutions.We make certain that all of our customers' business operations are completely secure. Under AWS Managed Services, we provide the following services. - Administration of AWS infrastructure -AWS application deployment and configuration - Monitoring the performance of infrastructure and applications - Resolving issues with your AWS infrastructure - Monitoring and management of your AWS account - Disaster recovery and backup  
-
-
-
+<img src="https://th.bing.com/th/id/R.102fb3214b0b2a2c2a38b2b6b09a18f0?rik=ZwiUVNL8gG7tJg&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_459341.png&ehk=dltalgHXNg0a6o2w%2bgEy7heimFO2ZOlcDsgpBTcNroc%3d&risl=&pid=ImgRaw&r=0" width=10% height=5%>Managing infrastructure in the cloud necessitates your undivided attention, time, energy, and resources.We help businesses realize the benefits of AWS cloud hosting by providing a comprehensive set of managed services such as outsourced AWS systems administration and AWS-based network and storage solutions.We make certain that all of our customers' business operations are completely secure. Under AWS Managed Services, we provide the following services. 
+- Administration of AWS infrastructure 
+- AWS application deployment and configuration 
+- Monitoring the performance of infrastructure and applications 
+- Resolving issues with your AWS infrastructure 
+- Monitoring and management of your AWS account 
+- Disaster recovery and backup  
 
 1. What they have implimented:
 
