@@ -41,8 +41,7 @@ The benefits of AWS Elastic Beanstalk include:
 - Complete control over AWS resources 
 - Simplified pricing
 
-**VPS**<https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99117B355F19748917>
-
+**VPS**<img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99117B355F19748917" width=25% height=20%>
 - It is simple to use. Lightsail runs on pre-installed software, eliminating the need for novices to learn complex concepts and procedures. Instead, it's more of a plug-and-play model.
 - It's affordable: AWS Lightsail subscriptions are free for the first month, and as the price ranges mentioned earlier show, it's very cost-effective. Furthermore, there are no costly surprises. The pricing system is reliable and consistent.
 - It has excellent customer service. Lightsail takes advantage of the vast Amazon Web Services ecosystem. There is also round-the-clock support and consolidated billing.
