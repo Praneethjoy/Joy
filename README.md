@@ -30,9 +30,9 @@
 
 **Compute Services**
 
-Elastic compute cloud (EC2) which The fact that you do not have to invest in hardware is a fantastic feature of EC2. AWS EC2 allows you to develop and deploy applications much more quickly.<img src="https://imgix.datadoghq.com/img/aws-integrations/amazon_ec2.png" width=15% height=10%>
+Elastic compute cloud (EC2) which The fact that you do not have to invest in hardware is a fantastic feature of EC2. AWS EC2 allows you to develop and deploy applications much more quickly.<img src="https://imgix.datadoghq.com/img/aws-integrations/amazon_ec2.png" width=25% height=20%>
 
-**PaaS**
+**PaaS**<img src="https://datadog-docs.imgix.net/images/integrations_logos/amazon_elasticbeanstalk-a9653a7f.png?w=180" width=25% height=20%>
 
 The benefits of AWS Elastic Beanstalk include:
 - Quick and easy application uploading process
