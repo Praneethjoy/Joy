@@ -26,7 +26,7 @@
 - Monitoring and management of your AWS account 
 - Disaster recovery and backup  
 
-*(A) Why we choose Amazon Web Service:*
+### *(A) Why we choose Amazon Web Service:*
 
 **Compute Services**
 Elastic compute cloud (EC2) which The fact that you do not have to invest in hardware is a fantastic feature of EC2. AWS EC2 allows you to develop and deploy applications much more quickly.
