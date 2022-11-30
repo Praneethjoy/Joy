@@ -50,7 +50,7 @@ The benefits of AWS Elastic Beanstalk include:
 - It's all too familiar. In the digital world, Amazon is a well-known and trusted brand. Developers and businesses can rely on AWS Lightsail for web hosting and application development.
 - It can be upgraded. Users can choose to upgrade to EC2. EC2 vs AWS Lightsail
 
-**Docker/Kurernetes containers** <img src="https://johnmuschelli.com/jsm_2018/figure/docker.png" width=25% height=20%>
+**Docker/Kurernetes containers** <img src="https://johnmuschelli.com/jsm_2018/figure/docker.png" width=15% height=10%>
 
 
 
