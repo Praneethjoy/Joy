@@ -26,9 +26,27 @@
 - Monitoring and management of your AWS account 
 - Disaster recovery and backup  
 
-1. What they have implimented:
+(A) Why we choose Amazon Web Service:
 
+**Compute Services**
+Elastic compute cloud (EC2) which The fact that you do not have to invest in hardware is a fantastic feature of EC2. AWS EC2 allows you to develop and deploy applications much more quickly.
 
+**PaaS**
+The benefits of AWS Elastic Beanstalk include:
+- Quick and easy application uploading process
+- Ease of infrastructure operation
+- Auto Scaling Settings
+- Complete control over AWS resources 
+- Simplified pricing
+
+**VPS**
+- It is simple to use. Lightsail runs on pre-installed software, eliminating the need for novices to learn complex concepts and procedures. Instead, it's more of a plug-and-play model.
+- It's affordable: AWS Lightsail subscriptions are free for the first month, and as the price ranges mentioned earlier show, it's very cost-effective. Furthermore, there are no costly surprises. The pricing system is reliable and consistent.
+- It has excellent customer service. Lightsail takes advantage of the vast Amazon Web Services ecosystem. There is also round-the-clock support and consolidated billing.
+- It is easily accessible. The Lightsail Container Service allows users to run containerized applications in the cloud and then easily access them via the Internet. Lightsail also has an excellent user interface.
+- It's dependable: Because LightSail's services use Amazon's cloud infrastructure and data centers, there's less chance of failure or the need for replacements.
+- It's all too familiar. In the digital world, Amazon is a well-known and trusted brand. Developers and businesses can rely on AWS Lightsail for web hosting and application development.
+- It can be upgraded. Users can choose to upgrade to EC2. EC2 vs AWS Lightsail
 
 
 
