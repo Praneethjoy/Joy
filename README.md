@@ -54,7 +54,7 @@ The benefits of AWS Elastic Beanstalk include:
 
 
 
-2. why they not implimenting:
+# *(B) why they not implimenting:*
 
 
 
