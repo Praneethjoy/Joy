@@ -30,7 +30,7 @@
 
 **Compute Services**
 
-Elastic compute cloud (EC2) which The fact that you do not have to invest in hardware is a fantastic feature of EC2. AWS EC2 allows you to develop and deploy applications much more quickly.
+Elastic compute cloud (EC2) which The fact that you do not have to invest in hardware is a fantastic feature of EC2. AWS EC2 allows you to develop and deploy applications much more quickly.<img src="https://imgix.datadoghq.com/img/aws-integrations/amazon_ec2.png" width=15% height=10%>
 
 **PaaS**
 
