@@ -69,10 +69,7 @@ Pros of using Docker on AWS:
 - AWS SDK or a third-party tool allows for simple custom task and service scheduling.
 - Utilize available resources by assigning tasks to EC2s with sufficient free resources and using auto-scaling when tasks require more resources
 
-**
-
-
-
+**Integrate Systems and run backend logic processes**
 
 
 
@@ -82,22 +79,3 @@ Pros of using Docker on AWS:
 
 
 
-## H2
-### H3
-
-**bold text**
-*italicized text*
-
-> blockquote
-
-1. First item
-2. Second item
-3. Third item
-
-- First item
-- Second item
-- Third item
-
-Code	`code`
-Horizontal Rule	---
-Link	[title](https://www.example.com)
