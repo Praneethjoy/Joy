@@ -61,6 +61,13 @@ The benefits of AWS Elastic Beanstalk include:
 
 <img src="https://johnmuschelli.com/jsm_2018/figure/docker.png" width=15% height=10%>
 
+- Dependency and server hardware management are managed separately.
+- The development environment is (internally) identical to the production environment.
+- Because of dependency management, not everyone requires intimate knowledge of every component of your technology stack.
+- AWS SDK or a third-party tool allows for simple custom task and service scheduling.
+- Utilize available resources by assigning tasks to EC2s with sufficient free resources and using auto-scaling when tasks require more resources
+
+
 
 
 
