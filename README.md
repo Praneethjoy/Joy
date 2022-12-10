@@ -100,8 +100,7 @@ Azure Virtual Machines are image service instances that provide scalable computi
 
 ## **CONCLUSION**
 
-On one hand AWS provides numerous services whilst Microsoft azure on the other hand provides only a hand full of similar services.Azure is comparatively easier to handle but less economical than AWS.
- 
+On one hand AWS provides numerous services whilst Microsoft azure on the other hand provides only a hand full of similar services.Azure is comparatively easier to handle but less economical than AWS.Hence it can be concluded through empirical  evidence  that AWS is a better option to opt for. 
 
 
 
