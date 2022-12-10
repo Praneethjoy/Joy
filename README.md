@@ -80,7 +80,14 @@ AWS Lambda is an Amazon Web Services service that allows you to run your code wh
 <img src="https://www.section.io/engineering-education/autoscaling-in-amazon-web-services/aws-autoscaling.png" width=55% height=25%>
 
 
-### *(B) Why we are opting Microsoft Azure:*
+### *(B) A thought for Microsoft Azure:*
+
+**Compute Services**
+
+The virtual machine is a virtual computer that runs on top of a physical computing device.It is a computer file or folder that functions like a physical computer but exists only in virtual form.It functions in the same way as other programs or applications that run within the computer and its window.It improves the user experience because they are running a virtual computer on the same host computer. Instead of using the virus-infected OS in the device, the user can test the operating system using the virtual environment created by the virtual machine.
+
+
+ 
 
 
 
