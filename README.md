@@ -77,7 +77,7 @@ AWS Lambda is an Amazon Web Services service that allows you to run your code wh
 
 **Automatically scale instances**
 
-<img src="https://www.section.io/engineering-education/autoscaling-in-amazon-web-services/aws-autoscaling.png" width=25% height=10%>
+<img src="https://www.section.io/engineering-education/autoscaling-in-amazon-web-services/aws-autoscaling.png" width=55% height=25%>
 
 
 ### *(B) why they not implimenting:*
