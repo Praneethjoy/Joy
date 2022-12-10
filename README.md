@@ -71,7 +71,7 @@ Pros of using Docker on AWS:
 
 **Integrate Systems and run backend logic processes on Lambda**
 
-<img src="https://i1.wp.com/blog.contactsunny.com/wp-content/uploads/2019/11/aws_lambda_logo.png?fit=290%2C300&ssl=1" width=15% height=10%>
+<img src="https://i1.wp.com/blog.contactsunny.com/wp-content/uploads/2019/11/aws_lambda_logo.png?fit=290%2C300&ssl=1" width=10% height=9%>
 
 AWS Lambda is an Amazon Web Services service that allows you to run your code when a specific event occurs, which you define, or when certain conditions are met, and AWS automatically manages, scales your computing resources; there is no need to provision the resources or manage your servers; this service allows you to create your back-end service that will operate on scale, performance, and security, and will be serverless; your payment will be calculated on the basis of usage.
 
@@ -80,7 +80,7 @@ AWS Lambda is an Amazon Web Services service that allows you to run your code wh
 <img src="https://www.section.io/engineering-education/autoscaling-in-amazon-web-services/aws-autoscaling.png" width=55% height=25%>
 
 
-### *(B) why they not implimenting:*
+### *(B) Why we are opting Microsoft Azure:*
 
 
 
