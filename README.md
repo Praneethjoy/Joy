@@ -14,7 +14,7 @@
 
 
 - ### **IT TEAM**
-<img src="https://th.bing.com/th/id/R.fc1a258f7c917728f89398f4e44bd90d?rik=hMTfURUuKlAQUw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_328097.png&ehk=NQlUJ2diAFGm7SgVnzpmL9D5TeXxZQPtKFnPAD4IsxE%3d&risl=&pid=ImgRaw&r=0" width=10% height=5%> Our IT Team consist 20-25 highly skilled professionals qualified in undertaking complex tasks with high efficency and effectiveness. Our core IT operations revolve around AWS Cloud management and support.Amazon Web Services (AWS) is a fantastic cloud platform for businesses, which is why we offer a comprehensive, customized, and dependable AWS support services program.
+<img src="https://th.bing.com/th/id/R.fc1a258f7c917728f89398f4e44bd90d?rik=hMTfURUuKlAQUw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fdownload_328097.png&ehk=NQlUJ2diAFGm7SgVnzpmL9D5TeXxZQPtKFnPAD4IsxE%3d&risl=&pid=ImgRaw&r=0" width=10% height=5%> Our IT Team consist 50-100 highly skilled professionals qualified in undertaking complex tasks with high efficency and effectiveness. Our core IT operations revolve around AWS Cloud management and support.Amazon Web Services (AWS) is a fantastic cloud platform for businesses, which is why we offer a comprehensive, customized, and dependable AWS support services program.
 
 
 - ### **CLOUD SETUP**
