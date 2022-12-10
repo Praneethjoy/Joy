@@ -1,7 +1,7 @@
 # *CA*
 
 ## **ABOUT COMPANY** : 
-<img src="https://clipground.com/images/about-me-icon-png-2.png" width=10% height=5%> Nelux technologies PVT LTD is a support based organization specializing in server management and staffing services. We take pride in providing quality support to our clients with the motive of allowing our clients to take care of marketing and their core area of business while we take care of their servers. At Nelux technologies PVT LTD, you will find employees who provide a personal touch to your business with unmatched commitment levels. Our expertise involves providing Linux based solutions to a whole range of clients ranging from small and medium sized companies to large organizations. We specialize in providing reliable and secure solutions for all your server related issues. Our state-of-the-art network infrastructure combined with world class training ensures your server and network related issues are taken care of allowing you to concentrate on your core-business. The management team at Nelux technologies PVT LTD understands the difficulty that can arise when an engineer quits a project mid-way. We at Nelux technologies PVT LTD pride in employee retention through providing a cognial and positive work atmosphere allowing the engineers to perform to the best of his calibre.
+<img src="https://clipground.com/images/about-me-icon-png-2.png" width=10% height=5%> Nelux technologies PVT LTD is a support based organization specializing in server management and staffing services. We take pride in providing quality support to our clients with the motive of allowing our clients to take care of marketing and their core area of business while we take care of their servers. At Nelux technologies PVT LTD, you will find employees who provide a personal touch to your business with unmatched commitment levels. Our expertise involves providing Linux based solutions to a whole range of clients ranging from small and medium sized companies to large organizations.The management team at Nelux technologies PVT LTD understands the difficulty that can arise when an engineer quits a project mid-way. We at Nelux technologies PVT LTD pride in employee retention through providing a cognial and positive work atmosphere allowing the engineers to perform to the best of his calibre.
 
 
 
@@ -9,7 +9,7 @@
 
 
 - ### **BACKGROUND**
-<img src="https://static.thenounproject.com/png/1716829-200.png" width=10% height=5%> Nelux Technologies Private Limited is an unlisted private company incorporated on December , 2017.It is classified as a private limited company and is located in Thrissur, Kerala. It's authorized share capital is INR 10.00Lac and the total paid-up captial is INR 10,000.00. The current status of Nelux Technologies Private Limited is - Active.
+<img src="https://static.thenounproject.com/png/1716829-200.png" width=10% height=5%> Nelux Technologies Private Limited is an unlisted private company incorporated on December , 2017.It is classified as a private limited company and is located in Thrissur, Kerala.We specialize in providing reliable and secure solutions for all your server related issues. Our state-of-the-art network infrastructure combined with world class training ensures your server and network related issues are taken care of allowing you to concentrate on your core-business. The current status of Nelux Technologies Private Limited is - Active.
 
 
 
