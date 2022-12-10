@@ -9,7 +9,7 @@
 
 
 - ### **BACKGROUND**
-<img src="https://static.thenounproject.com/png/1716829-200.png" width=10% height=5%> Nelux Technologies Private Limited is an unlisted private company incorporated on December , 2017.It is classified as a private limited company and is located in Thrissur, Kerala.We specialize in providing reliable and secure solutions for all your server related issues. Our state-of-the-art network infrastructure combined with world class training ensures your server and network related issues are taken care of allowing you to concentrate on your core-business. The current status of Nelux Technologies Private Limited is - Active.
+<img src="https://static.thenounproject.com/png/1716829-200.png" width=10% height=5%> Nelux Technologies Private Limited is an unlisted private company incorporated on December , 2017.It is classified as a private limited company and is located in Thrissur, Kerala. We have more than 20 clients in several districts accross Kerala. We specialize in providing reliable and secure solutions for all your server related issues. Our state-of-the-art network infrastructure combined with world class training ensures your server and network related issues are taken care of allowing you to concentrate on your core-business. The current status of Nelux Technologies Private Limited is - Active.
 
 
 
