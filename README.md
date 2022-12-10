@@ -93,9 +93,14 @@ Microsoft Azure App Services is a Microsoft-designed platform for developing, te
 Elastic Beanstalk is an AWS service for deploying and scaling web applications and services written in Java,.NET, PHP, Node.js, Python, Ruby, Go, and Docker on well-known platforms such as Apache, Nginx, Passenger, and IIS.
 
 **VPS**
+
 Azure Virtual Machines are image service instances that provide scalable computing resources on-demand and with usage-based pricing. A virtual machine, in general, behaves like a server: It's a computer within a computer that gives the user the same experience as the host operating system.
 
+**
 
+## **CONCLUSION**
+
+On one hand AWS provides numerous services whilst Microsoft azure on the other hand provides only a hand full of similar services.Azure is comparatively easier to handle but less economical than AWS.
  
 
 
