@@ -69,10 +69,9 @@ Pros of using Docker on AWS:
 - AWS SDK or a third-party tool allows for simple custom task and service scheduling.
 - Utilize available resources by assigning tasks to EC2s with sufficient free resources and using auto-scaling when tasks require more resources
 
-**Integrate Systems and run backend logic processes**
+**Integrate Systems and run backend logic processes on Lambda**
 
-
-
+AWS Lambda is an Amazon Web Services service that allows you to run your code when a specific event occurs, which you define, or when certain conditions are met, and AWS automatically manages, scales your computing resources; there is no need to provision the resources or manage your servers; this service allows you to create your back-end service that will operate on scale, performance, and security, and will be serverless; your payment will be calculated on the basis of usage.
 
 
 ### *(B) why they not implimenting:*
